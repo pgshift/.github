@@ -1,4 +1,5 @@
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/50293d6f-3b8a-45f0-ae2a-84ea80042396" />
+[<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/50293d6f-3b8a-45f0-ae2a-84ea80042396" />
+](https://avatars.githubusercontent.com/u/284823564?s=200&v=4)
 
 # PgShift
 
