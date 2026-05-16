@@ -15,13 +15,13 @@ PostgreSQL already handles most of what those services do. PgShift gives you a c
 
 | Package | Replaces | Postgres primitive |
 |---|---|---|
-| [`@pgshift/search`](https://github.com/mkafonso/pgshift/tree/main/packages/search) | Elasticsearch, Typesense | TSVector + pg_trgm |
-| [`@pgshift/cache`](https://github.com/mkafonso/pgshift/tree/main/packages/cache) | Redis (read-heavy) | Materialized views |
-| [`@pgshift/queue`](https://github.com/mkafonso/pgshift/tree/main/packages/queue) | BullMQ, SQS, RabbitMQ | SKIP LOCKED |
-| [`@pgshift/cron`](https://github.com/mkafonso/pgshift/tree/main/packages/cron) | EventBridge, cron services | pg_cron |
-| [`@pgshift/vector`](https://github.com/mkafonso/pgshift/tree/main/packages/vector) | Pinecone, Weaviate | pgvector + HNSW |
-| [`@pgshift/state`](https://github.com/mkafonso/pgshift/tree/main/packages/state) | Custom trigger logic | Triggers + RLS |
-| [`@pgshift/workflow`](https://github.com/mkafonso/pgshift/tree/main/packages/workflow) | Temporal, Step Functions | SKIP LOCKED + JSONB |
+| [`@pgshift/search`](https://github.com/pgshift/pgshift/tree/main/packages/search) | Elasticsearch, Typesense | TSVector + pg_trgm |
+| [`@pgshift/cache`](https://github.com/pgshift/pgshift/tree/main/packages/cache) | Redis (read-heavy) | Materialized views |
+| [`@pgshift/queue`](https://github.com/pgshift/pgshift/tree/main/packages/queue) | BullMQ, SQS, RabbitMQ | SKIP LOCKED |
+| [`@pgshift/cron`](https://github.com/pgshift/pgshift/tree/main/packages/cron) | EventBridge, cron services | pg_cron |
+| [`@pgshift/vector`](https://github.com/pgshift/pgshift/tree/main/packages/vector) | Pinecone, Weaviate | pgvector + HNSW |
+| [`@pgshift/state`](https://github.com/pgshift/pgshift/tree/main/packages/state) | Custom trigger logic | Triggers + RLS |
+| [`@pgshift/workflow`](https://github.com/pgshift/pgshift/tree/main/packages/workflow) | Temporal, Step Functions | SKIP LOCKED + JSONB |
 
 ---
 
